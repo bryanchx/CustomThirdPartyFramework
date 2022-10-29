@@ -14,3 +14,8 @@ dependencyResolutionManagement {
 }
 rootProject.name = "CustomThirdPartyFramework"
 include ':app'
+include ':customarouter'
+//include ':process'
+//include ':annotation'
+include ':annotation'
+include ':process'
